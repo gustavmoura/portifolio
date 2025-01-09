@@ -24,7 +24,7 @@ export const MenuList: Nav[] = [
     {
         id: 4,
         title: "Contatos",
-        href: "https://wa.me/5571981847173",
+        href: "https://wa.me/5586981302673",
         Icon: AddressBook
     },
 ]
