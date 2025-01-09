@@ -11,7 +11,7 @@ export function MadeBy() {
                 target="_blank"
                 className="text-sky-300"
             >
-                Guilherme
+                Gustavo Moura
             </Link>
         </span>
     );

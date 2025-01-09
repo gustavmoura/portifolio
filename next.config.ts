@@ -9,6 +9,7 @@ const nextConfig: NextConfig = {
         hostname: 'skillicons.dev',
       },
     ],
+    domains: ['media.licdn.com'],
   },
 };
 

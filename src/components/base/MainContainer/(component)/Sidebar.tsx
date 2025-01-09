@@ -20,10 +20,10 @@ export function Sidebar({ handleSideShow, show }: SidebarProps) {
                 show === "hidden" ? "flex animate-slide-left" : "hidden"
             )}>
                 <div className="flex gap-3">
-                    <span><Image className="rounded-full" src="/repositories/Guilherme.webp" width={35} height={35} alt="profile picture" /></span>
+                    <span><Image className="rounded-full" src="https://media.licdn.com/dms/image/v2/D4D03AQFt4LuuyburXA/profile-displayphoto-shrink_200_200/B4DZPACRbcGgAY-/0/1734093642260?e=1741824000&v=beta&t=0oTHcvT0ZmRp2v2tbAzRGkbuiDhD4qn1W8gaeqx8-jA" width={35} height={35} alt="profile picture" /></span>
                     <div className="flex flex-col justify-center">
-                        <h1 className="text-xs text-blue100">Front-end Developer</h1>
-                        <p className="text-xs text-blue100p80">@Guilherme Oliveira</p>
+                        <h1 className="text-xs text-blue100">Senior Software Engineer</h1>
+                        <p className="text-xs text-blue100p80">@gustavomoura</p>
                     </div>
                 </div>
                 <Separator />
